@@ -1,0 +1,6 @@
+<!-- En AndroidManifest.xml -->
+<uses-permission android:name="android.permission.INTERNET" />
+
+<application
+    android:usesCleartextTraffic="true"
+    ... >
